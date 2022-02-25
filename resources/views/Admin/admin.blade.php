@@ -10,6 +10,7 @@
   <body>
 @include('Admin.navbar')
 
+@include('Admin.body')
 
 @include('Admin.adminjs')
   </body>
